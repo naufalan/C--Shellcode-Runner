@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Lab Local\Sandbox\Sandbox\Enc\bin\Debug\Enc.exe.config
+C:\Users\User\Desktop\Lab Local\Sandbox\Sandbox\Enc\bin\Debug\Enc.exe
+C:\Users\User\Desktop\Lab Local\Sandbox\Sandbox\Enc\bin\Debug\Enc.pdb
+C:\Users\User\Desktop\Lab Local\Sandbox\Sandbox\Enc\obj\Debug\Enc.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Lab Local\Sandbox\Sandbox\Enc\obj\Debug\Enc.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Lab Local\Sandbox\Sandbox\Enc\obj\Debug\Enc.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab Local\Sandbox\Sandbox\Enc\obj\Debug\Enc.exe
+C:\Users\User\Desktop\Lab Local\Sandbox\Sandbox\Enc\obj\Debug\Enc.pdb

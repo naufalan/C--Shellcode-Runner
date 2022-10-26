@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Lab Local\Sandbox\Sandbox\Sandbox\bin\x86\Release\Sandbox.exe.config
+C:\Users\User\Desktop\Lab Local\Sandbox\Sandbox\Sandbox\bin\x86\Release\Sandbox.exe
+C:\Users\User\Desktop\Lab Local\Sandbox\Sandbox\Sandbox\bin\x86\Release\Sandbox.pdb
+C:\Users\User\Desktop\Lab Local\Sandbox\Sandbox\Sandbox\obj\x86\Release\Sandbox.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Lab Local\Sandbox\Sandbox\Sandbox\obj\x86\Release\Sandbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Lab Local\Sandbox\Sandbox\Sandbox\obj\x86\Release\Sandbox.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab Local\Sandbox\Sandbox\Sandbox\obj\x86\Release\Sandbox.exe
+C:\Users\User\Desktop\Lab Local\Sandbox\Sandbox\Sandbox\obj\x86\Release\Sandbox.pdb
