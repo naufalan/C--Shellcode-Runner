@@ -3,7 +3,9 @@
 ################################################################################
 
 /.vs/Sandbox/v17
-/Sandbox/bin
-/Sandbox/obj
-/Enc/bin
-/Enc/obj
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
